@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Amruth Mandappa T S</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.behance.net/gallery/28898167/People-Animated-GIFs](https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif)">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruth56&label=Profile%20views&color=0e75b6&style=flat" alt="amruth56" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruth56" alt="amruth56" /></a> </p>
 
-- 🔭 I’m currently working on **3D scanning**
+- 🔭 I’m currently working on my **Skill development**
 
 - 🌱 I’m currently learning **Angular.js, Express.js, Node.js**
 
