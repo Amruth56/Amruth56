@@ -1,4 +1,4 @@
-![Header]("C:\Users\ammum\OneDrive\Desktop\github-header-image.png")
+
 <h1 align="center">Hi 👋, I'm Amruth Mandappa T S</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/28898167/People-Animated-GIFs">
