@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **amruth.mandappa56@mail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1AjnYkPIkGPi4L8q0PKDIn27nP2FcC9zc/view?usp=sharing](https://drive.google.com/file/d/1-MXtLg7a3wHNiaAPc1By34N8w6AJ_0Dj/view?usp=sharing)]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U-HuibbfiVm8pleSxN7Tx68QYNOCmA3E/view?usp=sharing]
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
