@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C++, HTML, CSS, JavaScript, React.js, AWS, MySql**
 
-- 📫 How to reach me **amruth.mandappa56@mail.com**
+- 📫 How to reach me **amruth.coder56@mail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1U-HuibbfiVm8pleSxN7Tx68QYNOCmA3E/view?usp=sharing]
 - ⚡ Fun fact **It’s all 0’s and 1’s**
