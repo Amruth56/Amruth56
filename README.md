@@ -10,13 +10,11 @@
 
 - 🔭 I’m currently working on my **Skill development**
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **C++, HTML, CSS, JavaScript, React.js, AWS, MySql**
+- 💬 Ask me about **C++, HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDb, AWS, MySql**
 
 - 📫 How to reach me **amruth.coder56@mail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U-HuibbfiVm8pleSxN7Tx68QYNOCmA3E/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1abQB_ORZ4YN6FLgiNra0MoFXv67RsM7Z/view?usp=sharing]
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
